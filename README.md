@@ -1,2 +1,0 @@
-# siddhi-
-internship projects
